@@ -1,4 +1,5 @@
 # hcs_uncertainty
 
+Know when you don’t know - a robust deep learning approach in the presence of unknown phenotypes
 
-* Training open training_on_selected.ipynb in [colab](https://colab.research.google.com/github/tensorchiefs/hcs_uncertainty/blob/master/training_on_selected.ipynb) 
+Training and testing Notebooks for two experiments
